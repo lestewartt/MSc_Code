@@ -1,6 +1,3 @@
-#BIOL4292 CW2 Code Submission
-#StudentID: 2915700
-
 '''
 Message regarding University of Glasgow's AI Guidance and Policy:
 
