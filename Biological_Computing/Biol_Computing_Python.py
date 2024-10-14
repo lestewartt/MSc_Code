@@ -1,6 +1,3 @@
-#BIOL5381 Assignment Code 
-#studentID: 2915700
-
 '''
 Comment on University of Glasgow's AI Guidance and Policy:
 
