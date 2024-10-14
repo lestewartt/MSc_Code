@@ -1,5 +1,3 @@
-#2915700 BIOL4292 Assignment 1 Code 
-
 '''
 Comment on University of Glasgow's AI Guidance and Policy:
 
