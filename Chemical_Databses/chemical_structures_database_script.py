@@ -1,6 +1,3 @@
-#### CHEM5042 ASSIGNMENT 2 ####
-#StudentID: 2915700 
-
 #importing libraries 
 import sqlite3
 import tkinter 
